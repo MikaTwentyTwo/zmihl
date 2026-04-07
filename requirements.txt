@@ -1,5 +1,0 @@
-fastapi
-uvicorn
-openai
-opentelemetry-sdk
-opentelemetry-exporter-otlp
